@@ -1,3 +1,36 @@
-{
-    "liveServer.settings.port": 5501
-}
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Uso de Listas</title>
+</head>
+<body>
+
+    <h1>USO DE LISTAS</h1>
+
+    <h2>lista ordenada de livros</h2>
+    <ol start="10">
+        <li>Vidas Secas</li>
+        <li>Os miseráveis</li>
+        <li>O peregrino</li>
+        <li>Cartas de um diabo ao seu aprendiz</li>
+    </ol>
+
+    <h2>lista ordenada de autores</h2>
+    <ol type="A">
+        <li>Graciliano Ramos</li>
+        <li>Victor Hugo</li>
+        <li>John Bunyan</li>
+        <li>C. S. Lewis</li>
+    </ol>
+
+    <h2>lista NÃO ordenada com quadrado - editoras</h2>
+    <ul type="square">
+        <li>Thomas Nelson Brasil</li>
+        <li>Ciência Moderna</li>
+        <li>Novatec</li>
+        <li>Amazon</li>
+    </ul>
+
+</body>
+</html>
